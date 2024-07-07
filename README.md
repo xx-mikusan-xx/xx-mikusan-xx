@@ -13,15 +13,16 @@
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xx-mikusan-xx&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://github-readme-activity-graph.vercel.app/graph?username=xx-mikusan-xx&theme=github-dark-dimmed&custom_title=Contribution%20Graph%20in%20the%20last%2031%20days&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
-## Programming Languages
+## Skills
+### Programming Languages
 
 <img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,php,java,c," /> <br /><br />
 
-## Frameworks and Library
+### Frameworks and Library
 
 <img src="https://skillicons.dev/icons?i=react,next,nodejs,wordpress" /> <br /><br />
 
-## DB and Dev Tools etc
+### DB and Dev Tools etc
 
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,git,github,vscode,linux,nginx" /> <br /><br />
 
