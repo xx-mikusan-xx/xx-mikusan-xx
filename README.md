@@ -25,7 +25,7 @@
 
 <img src="https://skillicons.dev/icons?i=react,next,nodejs,wordpress" /> <br /><br />
 
-### DB and Dev Tools etc
+### DB and Dev Tools
 
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,git,github,vscode,linux,nginx" /> <br /><br />
 
