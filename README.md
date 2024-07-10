@@ -1,4 +1,4 @@
-# Hi there 🙌
+# Hi🙌
 ## activity
 
 <p align="left">
