@@ -14,6 +14,9 @@
 [![](https://github-readme-activity-graph.vercel.app/graph?username=xx-mikusan-xx&theme=github-dark-dimmed&custom_title=Contribution%20Graph%20in%20the%20last%2031%20days&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ## Skills
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=xx-mikusan-xx&show_icons=true&locale=en&layout=compact)
+
 ### Programming Languages
 
 <img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,php,java,c," /> <br /><br />
