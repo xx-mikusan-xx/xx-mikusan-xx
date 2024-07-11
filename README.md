@@ -19,13 +19,13 @@
 
 ### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,php,java,c," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,php,java,c,cpp,cs" /> <br /><br />
 
 ### Frameworks and Library
 
-<img src="https://skillicons.dev/icons?i=react,next,nodejs,wordpress" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=react,next,nodejs,wordpress,nginx" /> <br /><br />
 
 ### DB and Dev Tools
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,git,github,vscode,linux,nginx" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,docker,git,github,vscode,linux,kali" /> <br /><br />
 
