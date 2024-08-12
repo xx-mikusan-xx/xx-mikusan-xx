@@ -27,5 +27,8 @@
 
 ### DB and Dev Tools
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,docker,git,github,vscode,linux,kali" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,firebase,docker,aws,git,github,vscode,linux,kali" /> <br /><br />
 
+### etc
+
+<img src="https://skillicons.dev/icons?i=latex,md" /> <br /><br />
